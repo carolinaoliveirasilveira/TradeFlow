@@ -53,5 +53,4 @@ docker-compose up --build -d order-db kafka product-db payment-db inventory-db
 ```bash
 docker-compose up -d
 ```
-A aplicação estará disponível em [http://localhost:3000/swagger-ui.html).  
-
+Para acessar as aplicações e realizar um pedido, basta acessar a URL: (http://localhost:3000/swagger-ui.html) 
